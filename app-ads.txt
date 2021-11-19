@@ -648,3 +648,11 @@ adcolony.com, 8404137bc8673e51, RESELLER, 1ad675c9de6b5176
 inmobi.com, 758e432765224cf2852ed7e0ff5b35e7, RESELLER, 83e75a7ae333ca9d
 conversantmedia.com, 41784, RESELLER, 03113cd04947736d
 yahoo.com, 59338, RESELLER
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+spotxchange.com, 285547, RESELLER,  7842df1d2fe2db34
+spotx.tv, 285547, RESELLER, 7842df1d2fe2db34
+pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
+advertising.com, 28605, RESELLER
+improvedigital.com, 1699, RESELLER
