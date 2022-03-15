@@ -8,6 +8,8 @@ bidmachine.io, 111305, RESELLER
 google.com, pub-8490251306191899, DIRECT, f08c47fec0942fa0
 #AdMob Test
 google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+#AdMob Mediation: Fluct 
+adingo.jp, 27272, RESELLER
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
